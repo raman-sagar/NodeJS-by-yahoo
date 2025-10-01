@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Payment Success</title>
+</head>
+<body>
+  <h1>Payment Successful</h1>
+  <h4>Payment Id : <span id="payid"></span></h4>
+  <a href="/">GO Back</a>
+
+  <script>
+    const paymentId = new URLSearchParams(window.location.search).get("paymentId");
+
+    document.querySelector("#payid").textContent = paymentId;
+  </script>
+</body>
+</html>
