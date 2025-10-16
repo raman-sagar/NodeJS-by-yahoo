@@ -5,7 +5,7 @@ Welcome to the ultimate **Node.js & Express.js Full tutorial Course**, where you
 
 ## Youtube Video link
 
-[NodeJS Course Video Playlist](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzGtrDFaF6uoC33cPNHDmeV)
+[NodeJS Course Video Playlist]()https://www.youtube.com/playlist?list=PL0b6OzIxLPbx0ZTmVQgsB4T5KWXXxrZ6C
 
 ## Follow Us
 
